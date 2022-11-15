@@ -10,9 +10,9 @@ admins = {}
 
 API_ID = int(getenv("API_ID", "26502256"))
 API_HASH = getenv("API_HASH", "c27a809ec73636d95ef93d2e5fb2b7c4")
-BOT_TOKEN = 5342984295:AAEtEwAkX1j-YUQgg9hTbDsCMnWBOrmeQ_I
+BOT_TOKEN = 5633478794:AAGIMDtpMrxX9cyLJyUO0Os1emXFf8wEIQs
 OWNER_USERNAME = getenv("pri_de02", "ShiningOff")
-BOT_USERNAME = getenv("ppridemusicbot")
+BOT_USERNAME = getenv("musicppridebot")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "SilentVerse")
 BOT_NAME = getenv("BOT_NAME","sɪʟᴇɴᴛ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ🥀")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "360"))
